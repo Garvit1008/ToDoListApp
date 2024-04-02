@@ -1,0 +1,31 @@
+.welcome-msg {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.addtodo {
+  margin-top: 40px;
+  padding: 0% 20%;
+}
+
+.addtodo img{
+  height: 25px;
+  margin-right: 10px;
+}
+
+#deleteNodeModal .modal-footer{
+  border: none;
+}
+
+#deleteNodeModal p{
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+.completed-note{
+  text-decoration: line-through;
+}
+
+.input-group{
+justify-content: space-between;
+}

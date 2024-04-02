@@ -1,0 +1,32 @@
+p{
+  margin: 0px;
+}
+
+.navbar{
+  z-index: 1;
+}
+
+.logout{
+  cursor: pointer;
+}
+
+.navbar-expand-lg .navbar-collapse{
+  flex-direction: row-reverse;
+}
+
+.dropdown-menu[data-bs-popper]{
+  left: -40px;
+}
+
+.dropdown-item{
+  cursor: pointer;
+}
+
+#deleteModal .modal-footer{
+  border: none;
+}
+
+#deleteModal p{
+  font-size: 20px;
+  margin-top: 20px;
+}
